@@ -10,6 +10,7 @@
         <img src="img/f4.png" width="600" height="600">
     </div>
     <div class="col-sm-3"></div>
+    <a class="btn btn-success" href="phone/"> press here to go home </a>
 </div>
 </div>
 
